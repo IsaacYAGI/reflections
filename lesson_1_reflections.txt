@@ -1,0 +1,27 @@
+Como me ayudo utilizar el comando diff a ver el error en el codigo?
+
+Permitiendome comparar que cambio desde la ultima vez y asi darme cuenta donde estaba el error TYPO en el codigo y poder corregirlo de una forma rapida.
+
+Como te ayuda el facil acceso a la historia de un archivo a hacerte un programador mas eficiente en el tiempo?
+
+Me permite acceder facilmente a los historiales de archivos y en poder resolver bugs de forma mas rapida y eficiente que si lo hiciera todo de forma manual. A la larga, esto ahorra tiempo que se puede invertir en mejorar el codigo o realizar nuevas funcionalidades, y no en buscar que se ha descompuesto en el codigo por un error de tipeo.
+
+Que piensas de los pro y contras de seleccionar manualmente cuando crear un commit, como lo haces en git, vs tener las versiones automaticamente guardadas, como en Google docs?
+
+Permitirme elegir cuando hacer commit me ayuda a evitar que la historia de mis cambios sea demasiado grande, y al momento que requiera arreglar algo o verificar algo de versiones anteriores, no se haga una tarea imposible.
+
+Por que crees que algunos SCV, como Git, permiten guardar varios archivos en un solo commit, mientras que otros, como Google Docs, tratan cada archivo por separado?
+
+Creo que es por la manera en que fueron diseñados y hacia donde estan enfocados. Si estas programando, lo mas probable es que lo hagas entre diferentes archivos, pero todos estos estarán interrelacionados. En cambio, en Google Docs, se suele utilizar para modificar un solo documento que no suele afectar a otros archivos o depender de una estructura logica muy arraigada.
+
+Como puedes usar los comando git log y git diff para ver el historial de archivos?
+
+Con git log se puede ver el historial de todos los commits que se han realizado en el repositorio, en conjunto con su comentario. De esa manera, si quiero encontrar un cambio en especifico en la historia solo tendria que fijarme en el comentario. Luego, si quiero saber que ha cambiado desde la ultima vez solo debo usar el comando git diff para ver que lineas se eliminaro o se agregaron.
+
+Como el uso de SCV te da mas confianza de hacer cambios que podrian dañar algo?
+
+Al permitir el facil acceso al historial de versiones de un archivo o un sistema entero, si algo se descompone, se puede verificar de una forma muy sencilla que pudo haber pasado y corregirlo. De esa manera se ofrece la confianza necesaria para desarrollar tranquilamente.
+
+Ya que tienes el espacio de trabajo configurado, para que vas a usar git?
+
+Para aprender a hacer control de versiones de mi codigo de una forma rapida y eficiente.
