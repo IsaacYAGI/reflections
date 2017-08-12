@@ -1,0 +1,7 @@
+Que sucede si inicializas un repositorio? por que necesitas hacer esto?
+
+Para que git sepa que es un repositorio nuevo y que se comiencen a trackear los archivos en el por cambios.
+
+Que tiene de diferente el Staging area con respecto al repositorio y al working directory? Que valor crees que agrega?
+
+El staging area te ayuda a visualizar y guardar temporalmente los archivos que ya estan listos para hacerles commit, mientras finalizas con los que estan en el working directory. El repositorio como tal ya seria la historia.
