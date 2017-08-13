@@ -17,3 +17,7 @@ Cuando se quiera probar un acercamiento para resolver un problema o crear un nue
 Como ayudan los diagramas a visualizar la estructura de las ramas?
 
 Te permiten ver de una forma bastante grafica cuales son los commits y las ramas que existen, como estan enlazadas para tenerlos en cuenta.
+
+Cual es el resultado de unir dos ramas? Por que lo representamos en el diagrama de esa manera?
+
+Al unir dos ramas obtenemos un nuevo commit con los cambios de ambas ramas en una sola. Se representa asi para visualizar el historial de los commits de forma correcta ya que los mismos divergen.
