@@ -13,3 +13,7 @@ Permite visualizar cuales archivos se van a guardar y con eso evitar guardar arc
 Cuales son las situaciones en la que las ramas serian utiles en mantener la historia organizada? Como ayudarian?
 
 Cuando se quiera probar un acercamiento para resolver un problema o crear un nuevo feature en el software.
+
+Como ayudan los diagramas a visualizar la estructura de las ramas?
+
+Te permiten ver de una forma bastante grafica cuales son los commits y las ramas que existen, como estan enlazadas para tenerlos en cuenta.
