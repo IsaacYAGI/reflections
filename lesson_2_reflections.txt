@@ -9,3 +9,7 @@ El staging area te ayuda a visualizar y guardar temporalmente los archivos que y
 Como puedes usar el staging area para asegurarte que tienes un commit por cambio logico?
 
 Permite visualizar cuales archivos se van a guardar y con eso evitar guardar archivos que no tengan que ver con el tema que se esta desarrollando.
+
+Cuales son las situaciones en la que las ramas serian utiles en mantener la historia organizada? Como ayudarian?
+
+Cuando se quiera probar un acercamiento para resolver un problema o crear un nuevo feature en el software.
