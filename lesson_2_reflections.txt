@@ -5,3 +5,7 @@ Para que git sepa que es un repositorio nuevo y que se comiencen a trackear los 
 Que tiene de diferente el Staging area con respecto al repositorio y al working directory? Que valor crees que agrega?
 
 El staging area te ayuda a visualizar y guardar temporalmente los archivos que ya estan listos para hacerles commit, mientras finalizas con los que estan en el working directory. El repositorio como tal ya seria la historia.
+
+Como puedes usar el staging area para asegurarte que tienes un commit por cambio logico?
+
+Permite visualizar cuales archivos se van a guardar y con eso evitar guardar archivos que no tengan que ver con el tema que se esta desarrollando.
