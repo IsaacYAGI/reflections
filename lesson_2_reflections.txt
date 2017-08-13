@@ -21,3 +21,7 @@ Te permiten ver de una forma bastante grafica cuales son los commits y las ramas
 Cual es el resultado de unir dos ramas? Por que lo representamos en el diagrama de esa manera?
 
 Al unir dos ramas obtenemos un nuevo commit con los cambios de ambas ramas en una sola. Se representa asi para visualizar el historial de los commits de forma correcta ya que los mismos divergen.
+
+Cuales son los pro y contras de usar la herramienta merge de Git vs siempre hacerlo manual?
+
+Que te permite de una forma rapida ver que cosas han cambiado y no tienes la necesidad de revisar todo el codigo. Es un poco mas rapido el proceso. Y en caso de que no haya conflictos el proceso es mas rapipdo aun.
