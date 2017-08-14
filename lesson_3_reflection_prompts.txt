@@ -1,0 +1,3 @@
+Cuando querrias usar un repositorio remoto en vez de trabajar localmente?
+
+Cuando quisiera colaborar con otras personas en un proyecto o si quisiera respaldar mi proyecto en la nube.
