@@ -1,3 +1,7 @@
 Cuando querrias usar un repositorio remoto en vez de trabajar localmente?
 
 Cuando quisiera colaborar con otras personas en un proyecto o si quisiera respaldar mi proyecto en la nube.
+
+Por que quisieras hacer los pull de los cambios manualmente en vez de que Git los tenga actualizados automaticamente con el repositorio remoto?
+
+Porque me gusta decidir cuando subir los cambios o descargar los que ya esten en la nube para evitar conflictos.
