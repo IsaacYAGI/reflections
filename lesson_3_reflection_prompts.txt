@@ -5,3 +5,9 @@ Cuando quisiera colaborar con otras personas en un proyecto o si quisiera respal
 Por que quisieras hacer los pull de los cambios manualmente en vez de que Git los tenga actualizados automaticamente con el repositorio remoto?
 
 Porque me gusta decidir cuando subir los cambios o descargar los que ya esten en la nube para evitar conflictos.
+
+Describe la diferencia entre forks, clones y branches. Cuando deberias usar uno u otro?
+
+- Clone se utiliza para copiar un repositorio a la maquina local. Esto es indiferente si es un repositorio publico del cual no eres dueño, es el tuyo propio o es un fork de otro proyecto.
+- Forks se utiliza para copiar un repositorio del cual no tienes permisos de escritura sobre él. Se utiliza para clonar un repositorio y poder colaborar directamente en Github, permitiendo poder copiarlo de una forma mas sencilla.
+Branches se utiliza cuando se desea trabajar en un feature aparte sin tocar el codigo principal, independientemente si es un fork o el propio proyecto. 
