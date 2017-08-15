@@ -19,3 +19,7 @@ Que se tiene un respaldo mas actual de lo que se estuvo desarrollando y poder tr
 Como colaborarias sin usar git o Github? Que seria mas facil y mas dificil?
 
 Sin Git ni Github seria mucho mas complicado integrar cambios entre diferentes personas. Usando estas dos herramientas todo es mas rapido y mas facil que haciendolo de forma manual.
+
+Cuando quisieras hacer cambios en una rama separada en vez de hacerlo directamente sobre master? Que beneficios trae esta manera de trabajo?
+
+Utilizaria una rama aparte siempre que quisiera hacer algun cambio en el trabajo actual, sobre todo si lo que quiero es evitar dañar el trabajo que ya ha sido probado y aprobado por varias personas. De esta manera se mantiene una forma de trabajo mas limpia y segura que mezclar todo de una sola vez. Tambien me permitiria utilizar las ramas para compartir cambios a otras personas sin que la rama principal, master, se vea perjudicada.
