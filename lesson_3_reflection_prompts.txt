@@ -15,3 +15,7 @@ Describe la diferencia entre forks, clones y branches. Cuando deberias usar uno 
 Cual es el beneficio de tener el ultimo estado conocido del repositorio en forma local?
 
 Que se tiene un respaldo mas actual de lo que se estuvo desarrollando y poder trabajar sobre ello y con esto evitar la menor cantidad de conflictos posibles al reintegrar los cambios nuevamente.
+
+Como colaborarias sin usar git o Github? Que seria mas facil y mas dificil?
+
+Sin Git ni Github seria mucho mas complicado integrar cambios entre diferentes personas. Usando estas dos herramientas todo es mas rapido y mas facil que haciendolo de forma manual.
